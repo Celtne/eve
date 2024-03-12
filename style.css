@@ -1,0 +1,155 @@
+* {
+	box-sizing: border-box;
+	font-family: "Slackside One"
+}
+body {
+	background-color: #383c54;
+	margin: 0px;
+	padding: 0px;
+	color: #E1E5F2 ;
+}
+
+p {
+	box-sizing: border-box;
+	font-family: "Gochi Hand";
+	font-style: very light;
+
+}
+
+h3 {
+	font-size: 30pt;
+	padding-bottom: ;
+}
+
+a,a:visited {
+	color: #E1E5F2;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #736CED;
+}
+
+div.format p{
+	margin-left: 30px;
+}
+
+#eve {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	align-items: flex-end;
+	background-image: url(eve1.jpg);
+	height: 75vh;
+	color: #E1E5F2;
+	font-size: 70pt;
+
+}
+
+#bghome {
+	background-color: black;
+}
+
+#home {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	align-items: flex-start;
+}
+
+.soc {
+	width: 50px;
+	object-fit: cover;
+}
+
+.soc:hover {
+
+  	opacity:0.7;
+  	filter:alpha(opacity=70);
+  	
+}
+
+.Image {
+	width: 300px; 
+	height: 300px;
+	object-fit: cover
+}
+
+.hover {
+	background-color: #001F54;
+	width: 400px; 
+	height: 400px;
+
+}
+
+.coverImage {
+	width: 400px; 
+	height: 400px;
+	object-fit: cover;
+	background-color: #001F54;
+
+}
+
+.coverImage:hover {
+	background-color: #736CED;
+  	opacity: 0.7;
+  	filter:alpha(opacity=70);
+  	
+}
+
+.back {
+	background-color: black;
+}
+
+.menu {
+	background-color: #383c54;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	height: 10vh;
+	font-size: 15pt;
+	padding: 2vw;
+	position: sticky;
+	top: 0;
+	width: 100%;
+	z-index: 99;
+}
+
+.words {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+
+.about {
+	width: 60vw;
+	font-size: 15pt;
+	line-height: 1.5;
+}
+
+.socials {
+	padding-bottom: 2vw;
+}
+
+.format {
+	display: flex;
+
+}
+
+.analysis {
+	width: 60vw;
+	font-size: 13pt;
+	line-height: 1.5;
+}
+
+.title {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+
+.songtitle {
+	line-height: 0.5;
+}
