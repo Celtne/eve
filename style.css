@@ -153,3 +153,42 @@ div.format p{
 .songtitle {
 	line-height: 0.5;
 }
+
+/*media query*/
+
+@media screen and (max-width: 600px) {
+
+	h3 {
+		font-size: 2em;
+	}
+
+	.altmenu {
+		font-size: 0.7em;
+	}
+
+	#eve {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		background-image: url(eve1.jpg);
+		background-size: cover;
+		color: #E1E5F2;
+		font-size:2.5em;
+
+	}
+
+
+	.about {
+		width: 60vw;
+		font-size: 1em;
+		line-height: 2;
+	}
+
+	.analysis {
+		width: 85vw;
+		font-size: 1em;
+		line-height: 2;
+	}
+
+
+}
