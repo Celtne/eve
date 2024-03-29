@@ -163,7 +163,7 @@ div.format p{
 	}
 
 	.altmenu {
-		font-size: 0.7em;
+		font-size: 0.65em;
 	}
 
 	#eve {
@@ -179,13 +179,15 @@ div.format p{
 
 
 	.about {
-		width: 100%;
+		max-width: 100%;
+		min-width: 300px;
 		font-size: 1em;
 		line-height: 2;
 	}
 
 	.analysis {
-		width: 80vw;
+		max-width: 80vw;
+		min-width: 300px;
 		font-size: 1em;
 		line-height: 2;
 	}
