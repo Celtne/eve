@@ -179,6 +179,7 @@ div.format p{
 
 
 	.about {
+		margin: 0px;
 		padding: 4px;
 		width: 100%;
 		font-size: 1em;
@@ -186,6 +187,7 @@ div.format p{
 	}
 
 	.analysis {
+		margin: 0px;
 		padding: 4px;
 		width: 100%;
 		font-size: 1em;
