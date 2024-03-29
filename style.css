@@ -179,14 +179,14 @@ div.format p{
 
 
 	.about {
-		padding: 5px;
+		padding: 4px;
 		width: 100%;
 		font-size: 1em;
 		line-height: 2;
 	}
 
 	.analysis {
-		padding: 5px;
+		padding: 4px;
 		width: 100%;
 		font-size: 1em;
 		line-height: 2;
@@ -194,6 +194,7 @@ div.format p{
 
 	img {
   		max-width: 100%;
+  		min-width: 300px;
     	height: auto;
 	}
 }
