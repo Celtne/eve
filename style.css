@@ -196,5 +196,7 @@ div.format p{
 		padding: 0px;
 		width: 90vw;
 	}
-	
+	.homeeve {
+		object-fit: cover;
+	}
 }
