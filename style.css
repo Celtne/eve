@@ -185,11 +185,16 @@ div.format p{
 	}
 
 	.analysis {
-		text-align: center;
+		margin-left: auto;
 		width: 85vw;
 		font-size: 1em;
 		line-height: 2;
 	}
 
-
+	img {
+		margin: 0px;
+		padding: 0px;
+		width: 90vw;
+	}
+	
 }
