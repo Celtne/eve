@@ -179,21 +179,20 @@ div.format p{
 
 
 	.about {
-		width: 60vw;
+		width: 70vw;
 		font-size: 1em;
 		line-height: 2;
 	}
 
 	.analysis {
 		margin-left: auto;
-		width: 85vw;
+		width: 90vw;
 		font-size: 1em;
 		line-height: 2;
 	}
 
 	img {
   		max-width: 100%;
-    	min-width: 300px;
     	height: auto;
 	}
 }
