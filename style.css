@@ -163,7 +163,7 @@ div.format p{
 	}
 
 	.altmenu {
-		font-size: 0.7em;
+		font-size: 0.5em;
 	}
 
 	#eve {
@@ -185,6 +185,7 @@ div.format p{
 	}
 
 	.analysis {
+		text-align: center;
 		width: 85vw;
 		font-size: 1em;
 		line-height: 2;
