@@ -190,8 +190,9 @@ div.format p{
 		line-height: 2;
 	}
 
-	img {
+	.homeeve {
   		max-width: 100%;
+  		min-width: 300px;
     	height: auto;
 	}
 }
