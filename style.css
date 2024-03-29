@@ -180,16 +180,18 @@ div.format p{
 
 	.about {
 		margin: 0px;
-		padding: 4px;
+		padding: 1px;
 		width: 100%;
+		height: auto;
 		font-size: 1em;
 		line-height: 2;
 	}
 
 	.analysis {
 		margin: 0px;
-		padding: 4px;
-		width: 100%;
+		padding: 1px;
+		max-width: 100%;
+    	height: auto;
 		font-size: 1em;
 		line-height: 2;
 	}
