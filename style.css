@@ -192,8 +192,8 @@ div.format p{
 	}
 
 	img {
-
-		width: 90vw;
+  		max-width: 100%;
+    	min-width: 300px;
+    	height: auto;
 	}
-
 }
