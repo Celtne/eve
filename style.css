@@ -197,6 +197,6 @@ div.format p{
 		width: 90vw;
 	}
 	.homeeve {
-		object-fit: cover;
+		width: 80vw;
 	}
 }
