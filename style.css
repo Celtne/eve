@@ -179,20 +179,20 @@ div.format p{
 
 
 	.about {
-		margin: 4px;
+		margin: 10px;
 		width: 100%;
 		font-size: 1em;
 		line-height: 2;
 	}
 
 	.analysis {
-		margin: 4px;
+		margin: 10px;
 		width: 100%;
 		font-size: 1em;
 		line-height: 2;
 	}
 
 	.homeeve {
-		width: 100vw;
+		width: 90vw;
 	}
 }
