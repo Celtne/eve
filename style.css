@@ -179,8 +179,8 @@ div.format p{
 	}
 
 	.info {
-		margin: 10px;
-		width: 100%;
+		margin: auto;
+		width: 90%;
 		font-size: 1em;
 		line-height: 2;
 	}
