@@ -182,7 +182,7 @@ div.format p{
 	.about {
 		margin: 10px;
 		width: 100%;
-		font-size: 1em;
+		font-size: 0.7em;
 		line-height: 2;
 	}
 
@@ -194,7 +194,7 @@ div.format p{
 	}
 
 	.homeeve {
-  		max-width: 100%;
+  		max-width: 90%;
   		height: auto;
 	}
 }
