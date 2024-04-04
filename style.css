@@ -123,7 +123,8 @@ div.format p{
 
 
 .about {
-	width: 60vw;
+	width: 100%;
+	padding: 5vw;
 	font-size: 15pt;
 	line-height: 1.5;
 }
@@ -164,7 +165,6 @@ div.format p{
 
 	.altmenu {
 		font-size: 0.6em;
-		width: 100%;
 	}
 
 	#eve {
@@ -178,9 +178,13 @@ div.format p{
 
 	}
 
+	.homeeve {
+		width: 100%;
+	}
+
 	.info {
 		margin: auto;
-		width: 90%;
+		width: 80%;
 		font-size: 1em;
 		line-height: 2;
 	}
